@@ -1,4 +1,2 @@
 # VECTO
-VECTO files 
-
-Saludos para Cristian
+VECTO files
